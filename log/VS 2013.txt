@@ -2,3 +2,6 @@
 fatal error lnk1101: incorrect mspdb120.dll version; recheck installation of this product.
 解决方法：
 关闭mactype
+
+
+vs2015
